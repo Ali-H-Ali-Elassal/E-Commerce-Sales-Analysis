@@ -40,5 +40,10 @@ The project includes summarized analysis results covering:
 - `Q5_Country_Revenue[1].xlsx` — Revenue by country
 - `Q6_Sales_Trend[1].xlsx` — Sales trends
 
+## Interactive Dashboard
+
+[View E-Commerce Sales Analysis on Tableau Public](https://public.tableau.com/views/RevenuebyProductCategory_17920938014310/E-CommerceSalesAnalysis)
+
+
 ## Author
 Ali H. Ali — Computer Science Student | Data Analytics
